@@ -23,3 +23,10 @@ For this increment, I am focusing on the organizational backbone of Checkly. Whi
 ### Project Management
 - **Tracking Tool:** [[Jira](https://byupathway-team-j753k3ol.atlassian.net/jira/software/projects/DEV/boards/1/backlog)]
 - **Current Velocity:** Stable; on track for Sprint 3 transition.
+
+## Before
+<img width="575" height="592" alt="Before" src="https://github.com/user-attachments/assets/8e925e76-5626-4e1f-bde2-04c81c7da140" />
+
+## After
+<img width="552" height="585" alt="After" src="https://github.com/user-attachments/assets/8491e659-a9a1-4e0d-a065-5f82693c6a18" />
+

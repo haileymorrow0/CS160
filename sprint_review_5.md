@@ -19,7 +19,7 @@ For this increment, the focus shifted toward data visualization and the technica
 
 ### Feedback Received
 - Stakeholders (Husband/Consultant) noted that the distinct "Owner" badge finally clears up the confusion regarding who can delete a shared list versus just editing it.
-- My "Junior Stakeholders" (the kids) really liked seeing the progress bars fill up on the dashboard—it makes it feel a bit more like a game.
+- My "Junior Stakeholders" (the kids) really liked seeing the progress bars fill up on the dashboard, it makes it feel a bit more like a game.
 - Suggested adding a "Dark Mode" in the next sprint to help with nighttime planning.
 - Recommendation to add a "Snooze" feature for the Smart Reminders so users aren't overwhelmed by alerts.
 
